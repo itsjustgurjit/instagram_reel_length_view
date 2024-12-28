@@ -1,0 +1,9 @@
+.video-duration-label {
+  font-family: Arial, sans-serif;
+  opacity: 0.9;
+  transition: opacity 0.3s;
+}
+
+.video-duration-label:hover {
+  opacity: 1;
+}
